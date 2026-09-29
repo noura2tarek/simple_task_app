@@ -101,7 +101,7 @@ flutter run
 |--------------------------------|-----------------------|
 | ![Mobile Layout](screenshots/task1.png) | ![Mobile2 Layout](screenshots/task2.png) |
 
-| TablAet layout                          | Desktop Layout    |
+| Tablet layout                          | Desktop Layout    |
 |--------------------------------------   |-------------------|
 | ![Tablet Layout](screenshots/task4.png) | ![Desktop Layout](screenshots/task4.png) |
 
